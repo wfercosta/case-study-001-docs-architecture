@@ -34,10 +34,18 @@ Abaixo segue a visão de containers da solução:
 
 ### Registro de Decisões Arquiteturais (ADR)
 
-[Definição de modelo estrutural de arquitetura](./adrs/adr-001.md)
+Abaixo segue a relaçao de registros de decisões arquiteturais realizadas para este projeto:
+
+- [Definição de modelo estrutural de arquitetura](./adrs/adr-001.md)
+
+### Mecanismos Arquiteturais
+
+_Não há mecanismos arquiteturais definidos_
 
 ### Princípios de Design
 
-### Mecanismos de Arquitetura
+_Não há princípios de design definidos_
 
-### Toplogia de Referência
+### Arquitetura e Topologia de Infraestrutura de Referência
+
+_Não há arquitetura e topologia de infraestrutura de referência definida_
