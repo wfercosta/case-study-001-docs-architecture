@@ -18,11 +18,19 @@ Na visáo geral de arquitetura é abordado a visão das solução em dois nívei
 
 #### Visão de contexto (C4 N1)
 
+Abaixo segue a visão contextual da solução:
+
 <p align="center">
   <img src="diagramas/c4_n1.png" alt="visão de contexto c4 n1"/>
 </p>
 
 #### Visão de containers (C4 N2)
+
+Abaixo segue a visão de containers da solução:
+
+<p align="center">
+  <img src="diagramas/c4_n2.png" alt="visão de contexto c4 n2"/>
+</p>
 
 ### Registro de Decisões Arquiteturais (ADR)
 
