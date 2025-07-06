@@ -19,7 +19,7 @@ Na visáo geral de arquitetura é abordado a visão das solução em dois nívei
 #### Visão de contexto (C4 N1)
 
 <center>
-![Visão C4 N1](./diagramas/c4_n1.png)
+![Visão C4 N1](diagramas/c4_n1.png)
 </center>
 
 #### Visão de containers (C4 N2)
