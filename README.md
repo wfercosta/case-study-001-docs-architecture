@@ -34,6 +34,8 @@ Abaixo segue a visão de containers da solução:
 
 ### Registro de Decisões Arquiteturais (ADR)
 
+[Definição de modelo estrutural de arquitetura](./adrs/adr-001.md)
+
 ### Princípios de Design
 
 ### Mecanismos de Arquitetura
