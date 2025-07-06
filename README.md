@@ -40,7 +40,9 @@ Abaixo segue a relaçao de registros de decisões arquiteturais realizadas para 
 
 ### Mecanismos Arquiteturais
 
-_Não há mecanismos arquiteturais definidos_
+Abaixo segue a relação de mecanismos arquiteturais definidos para este projeto:
+
+- [MECH-001 - Mecanismo de publicação de mensagens outbox table](./mechs/mech-001.md)
 
 ### Princípios de Design
 
